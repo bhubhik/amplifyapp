@@ -15,7 +15,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Learn AWS
+          Learn AWS. Sucessfully hosted a web app on cloud using AWS amplify!
         </a>
       </header>
     </div>
